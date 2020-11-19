@@ -11,6 +11,4 @@ ipykernel = "*"
 seaborn = "*"
 bokeh = "*"
 memory-profiler = "*"
-
-[requires]
-python_version = "3.6"
+iplotter = "*"
